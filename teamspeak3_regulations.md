@@ -210,7 +210,7 @@ Na serwerze głosowym nie ma kanałów publicznych, zastępując tę opcję uży
 4. Tylko Właściciel Eterprime ma prawo do wykluczania użytkowników z oferty świadczonych usług.
 5. Administratorzy, którzy nie zastosują się do zasad panujących w administracji Eterprime bądź popełnią wykroczenie wskazujące na brak lojalności wobec organizacji zostają całkowicie wykluczeni z oferty Eterprime przez Właściciela.
 
-## Postanowienia kończowe
+## Postanowienia końcowe
 1. Regulamin został opracowany i sformułowany zgodnie z ideą i podstawowymi moralnymi zasadami mającymi na celu zachowanie porządku i dobrego mienia usług Eterprime.
 2. Osobą uprawnioną do zmiany niniejszego regulaminu jest wyłącznie Właściciel Eterprime.
 3. Właściciel zastrzega sobie prawo do zmiany postanowień niniejszego regulaminu bez ówczesnego informowania o tym użytkowników jego usług. Zwiastun zmian w regulaminie zostanie wprowadzony minimalnie 3 dni przed ich zastosowaniem ogólnym, aby użytkownicy mogli się z nimi zapoznać.
