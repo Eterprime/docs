@@ -87,7 +87,7 @@
 8. W przypadku, gdy istnieją wolne miejsca między kanałami, właściciel kanału ma prawo do zmiany numeru na inny za pomocą panelu zarządzania kanałem na stronie internetowej.
 
 ## Sekcje kanałów
-1. Na serwerze głosowym znajdują się cztery sekcje przeznaczone na kanały użytkowników. Kolejno od góry drzewa kanłów serwera:
+1. Na serwerze głosowym dostępne są sekcje, przeznaczone na kanały użytkowników. Kolejno od góry drzewa kanłów serwera:
     - Sekcja kanałów partnerskich,
     - Sekcja kanałów Prime,
     - Sekcja kanałów klanowych,
