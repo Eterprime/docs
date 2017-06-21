@@ -176,7 +176,7 @@ Na serwerze głosowym nie ma kanałów publicznych, zastępując tę opcję uży
 3. Użytkownicy mogą zgłaszać się po pomoc w wyznaczonych miejscach na serwerze lub za pomocą mediów kontaktowych dostępnych na Eterprime.
 4. Aktualna lista kanałów udzielania pomocy użytkownikom na serwerze głsowoym:
     - **Centrum Pomocy / Support Center** - przeznaczony dla wszystkich użytkowników, zapewnia kontakt z konsultantami oraz wyższą administracją w razie zaistniałej potrzeby,
-    - **Sprawy biznesowe / Obsługa partnerów** - przeznaczony dla osób współpracujących z Eterprime, zapewnia osób z wyższą administracją.
+    - **Sprawy biznesowe / Obsługa partnerów** - przeznaczony dla osób współpracujących z Eterprime, zapewnia priorytetowe konsultacje z wyższą administracją.
 
 ## Taryfikator karny
 1. Administracja zobowiązana jest do stosowania powodów banicji użytkowników określonych w niniejszym taryfikatorze.
